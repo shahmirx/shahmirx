@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @shahmir 
 - 👀 I'm a software engineer who has passion about cyber security
 - 🌱 Python is love 
-- 💞️ Love to travel the world , my jar of happubess is an offroad track or may be senset at the beach 
+- 💞️ Love to travel the world , my jar of happubess is offroad motorcycle ride or may be sunset at the beach 
 - 📫 shahmir.live
 
 <!---
